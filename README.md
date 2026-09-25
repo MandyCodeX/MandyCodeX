@@ -71,20 +71,14 @@ I am an **Aspiring Data Scientist** passionate about turning raw, messy datasets
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MandyCodeX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MandyCodeX GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyCodeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandyCodeX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### 💡 Words That Inspire Me
 
----
+> ### *"The best way to predict the future is to create it."*
+> — **Peter Drucker**
 
-<div align="center">
+<br>
 
 ⭐ *Feel free to explore my repositories and connect for data science collaborations or opportunities!*
 
