@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Mandeep Kumar 👋
-### 📊 Data Analyst | 🐍 Python Developer | 🤖 Machine Learning Enthusiast
+### 🎯 Aspiring Data Scientist | 📊 Data Science & Analytics | 🤖 Machine Learning & Deep Learning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analysis+%26+Exploratory+Insights;Python+Automation+%26+Web+Scraping;Machine+Learning+%26+Deep+Learning+Models;Solving+Problems+with+Data+%26+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%26+ML+Practitioner;Predictive+Modeling+%26+Statistical+Analysis;End-to-End+Data+Science+Pipelines;Deep+Learning+%26+Neural+Networks;Transforming+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:immandy108@gmail.com"><img src="https://img.shields.io/badge/Email-immandy108%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,30 +15,32 @@
 
 ---
 
-### 🚀 About Me
+### 🎯 Professional Objective & About Me
 
-I am a passionate **Data Analyst and Python Developer** with a strong foundation in **Exploratory Data Analysis (EDA)**, **Statistical Modeling**, and **Data Extraction**. I enjoy transforming complex, unstructured real-world datasets into intuitive visual stories, actionable metrics, and machine learning models.
+I am an **Aspiring Data Scientist** passionate about turning raw, messy datasets into structured intelligence, statistical models, and predictive solutions. My work focuses on the complete data science lifecycle—from **automated data collection & cleaning** to **exploratory data analysis (EDA)**, **feature engineering**, and **machine learning / deep learning model deployment**.
 
-- 🔭 **Currently Working On**: Advanced sports analytics pipelines and automated data scraping workflows.
-- 📈 **Core Passion**: Finding hidden patterns through data exploration, hypothesis testing, and deep-dive visualization.
-- 🧠 **Continuous Learning**: Sharpening algorithmic problem solving with **NeetCode / LeetCode** and exploring Neural Network architectures.
-- 💬 **Ask Me About**: Python, Pandas, Matplotlib, Seaborn, Web Scraping, and Data Structures in Java & Python.
+- 🎯 **Primary Goal**: Establishing myself as a high-impact **Data Scientist**, utilizing statistical rigor and predictive modeling to solve complex analytical problems.
+- 🔬 **Data Science Focus**: Exploratory Data Analysis (EDA), Statistical Hypothesis Testing, Feature Engineering & Selection, Predictive Regression & Classification, Time-Series Forecasting (RNN/LSTM), and Model Optimization.
+- 🔭 **Current Projects**: Building multi-dimensional sports analytics frameworks and automated web scraping data pipelines.
+- 🧠 **Continuous Learning**: Sharpening algorithmic thinking and mathematical problem-solving on **NeetCode / LeetCode** while exploring modern neural network architectures.
+- 💬 **Ask Me About**: Data Science pipelines, Python, Pandas, Matplotlib, Seaborn, Machine Learning algorithms, and Web Scraping.
 - 📫 **How to reach me**: [immandy108@gmail.com](mailto:immandy108@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Data Science Tech Stack & Competencies
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### 🔬 Data Science & Statistical Analysis
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Data_Science-Specialist-0284C7?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-EDA-10B981?style=for-the-badge&logo=google-analytics&logoColor=white" alt="EDA" />
+  <img src="https://img.shields.io/badge/Statistical_Modeling-Hypothesis_Testing-6366F1?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-Data_Wrangling-F59E0B?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Feature Engineering" />
 </p>
 
-#### 📊 Data Science, Analytics & Visualization
+#### 📊 Data Manipulation & Visualization
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -52,31 +54,35 @@ I am a passionate **Data Analyst and Python Developer** with a strong foundation
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-8B5CF6?style=for-the-badge&logo=meta&logoColor=white" alt="Time Series" />
 </p>
 
-#### ⚙️ Data Engineering, Scraping & Tools
+#### 💻 Languages & Data Engineering
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 📂 Data Science & Analytics Projects
 
-| Project | Description | Key Tech Stack |
+| Project | Data Science Domain | Key Methodologies & Tech |
 | :--- | :--- | :--- |
-| [**🏐 VNL 2023 Player Performance Analysis**](https://github.com/MandyCodeX/vnl-2023-player-performance-analysis) | End-to-end sports analytics & EDA investigating player roles, correlation matrices, scoring efficiency, and age trends across 16 national teams. | `Python`, `Pandas`, `Matplotlib`, `Seaborn` |
-| [**🎬 IMDb Movie Data Analysis**](https://github.com/MandyCodeX/imdb-movie-data-analysis) | Exploratory data analysis uncovering box-office trends, genre performance, rating distributions, and runtime patterns in entertainment data. | `Python`, `Pandas`, `Jupyter Notebook`, `EDA` |
-| [**📈 Stock Price Prediction with RNN & Keras**](https://github.com/MandyCodeX/Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Network) | Time-series forecasting and regression modeling using Recurrent Neural Networks (RNN) and Keras deep learning architectures. | `Keras`, `Deep Learning`, `RNN`, `Time Series` |
-| [**🕸️ Python Jobs Scraper**](https://github.com/MandyCodeX/python-jobs-scraper) | Automated web scraping tool that extracts job postings, technical requirements, and hiring trends into structured formats. | `Python`, `BeautifulSoup`, `Requests`, `ETL` |
-| [**📱 Instagram Profile Parser**](https://github.com/MandyCodeX/instagram-profile-parser) | Information extraction engine structuring profile bios and user engagement metrics from raw unstructured text. | `Python`, `Regex`, `Data Parsing` |
-| [**🌐 Social Network Data Analyzer**](https://github.com/MandyCodeX/social-network-data-analyzer) | Analytics workflow examining interaction dynamics, connectivity patterns, and behavioral trends across social networks. | `Python`, `Pandas`, `Data Processing` |
-| [**🧠 NeetCode Submissions & Java DSA**](https://github.com/MandyCodeX/neetcode-submissions) | Problem-solving repository featuring optimized data structures and algorithms implementations in Python & Java. | `Python`, `Java`, `Algorithms`, `DSA` |
+| [**🏐 VNL 2023 Player Performance Analysis**](https://github.com/MandyCodeX/vnl-2023-player-performance-analysis) | **Sports Analytics & Exploratory Data Analysis** | Multi-variable correlation matrices, positional performance clustering, age curve modeling, and statistical visualizations. (`Python`, `Pandas`, `Matplotlib`, `Seaborn`) |
+| [**📈 Stock Price Prediction with RNN & Keras**](https://github.com/MandyCodeX/Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Network) | **Deep Learning & Time Series Forecasting** | Sequential modeling using Recurrent Neural Networks (RNN) and LSTM layers to predict financial trends. (`Keras`, `TensorFlow`, `Deep Learning`) |
+| [**🏠 Advanced House Price Prediction**](https://github.com/MandyCodeX/Advanced-House-Price-Prediction) | **Supervised Machine Learning & Regression** | End-to-end regression modeling featuring missing-value imputation, outlier treatment, and feature engineering. (`Scikit-Learn`, `Regression`, `Feature Engineering`) |
+| [**🎬 IMDb Movie Data Analysis**](https://github.com/MandyCodeX/imdb-movie-data-analysis) | **Exploratory Data Analysis & Trend Discovery** | Statistical analysis of box-office gross, budget correlations, genre distributions, and rating trajectories. (`Python`, `Pandas`, `EDA`) |
+| [**🕸️ Python Jobs Scraper**](https://github.com/MandyCodeX/python-jobs-scraper) | **Data Extraction & Automated ETL** | Automated web scraping pipeline aggregating tech hiring demand and skill frequencies into structured tabular datasets. (`Python`, `BeautifulSoup`, `Requests`) |
+| [**📱 Instagram Profile Parser**](https://github.com/MandyCodeX/instagram-profile-parser) | **Text Mining & Information Extraction** | Natural text parsing and regex-based information structuring from unstructured social media data. (`Python`, `Regex`, `Data Mining`) |
+| [**🌐 Social Network Data Analyzer**](https://github.com/MandyCodeX/social-network-data-analyzer) | **Network Analytics & Behavioral Patterns** | Exploration of interaction dynamics, connectivity metrics, and user behavior distributions. (`Python`, `Pandas`, `Data Processing`) |
+| [**🧠 NeetCode Submissions & Java DSA**](https://github.com/MandyCodeX/neetcode-submissions) | **Algorithms & Computational Efficiency** | Optimization of algorithmic complexity, data structure implementations, and competitive problem-solving. (`Python`, `Java`, `Algorithms`, `DSA`) |
 
 ---
 
@@ -95,6 +101,6 @@ I am a passionate **Data Analyst and Python Developer** with a strong foundation
 
 <div align="center">
 
-⭐ *Feel free to explore my repositories and reach out for collaborations or data opportunities!*
+⭐ *Feel free to explore my repositories and connect for data science collaborations or opportunities!*
 
 </div>
