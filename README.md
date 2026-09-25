@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%26+ML+Practitioner;Predictive+Modeling+%26+Statistical+Analysis;End-to-End+Data+Science+Pipelines;Deep+Learning+%26+Neural+Networks;Transforming+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:immandy108@gmail.com"><img src="https://img.shields.io/badge/Email-immandy108%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mandycodex"><img src="https://img.shields.io/badge/LinkedIn-mandycodex-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/MandyCodeX"><img src="https://img.shields.io/badge/GitHub-MandyCodeX-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://neetcode.io"><img src="https://img.shields.io/badge/NeetCode-Active%20Solver-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="NeetCode" /></a>
+  <a href="mailto:immandy108@gmail.com"><img src="https://img.shields.io/badge/Email-immandy108%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -24,7 +24,7 @@ I am an **Aspiring Data Scientist** passionate about turning raw, messy datasets
 - 🔭 **Current Projects**: Building multi-dimensional sports analytics frameworks and automated web scraping data pipelines.
 - 🧠 **Continuous Learning**: Sharpening algorithmic thinking and mathematical problem-solving on **NeetCode / LeetCode** while exploring modern neural network architectures.
 - 💬 **Ask Me About**: Data Science pipelines, Python, Pandas, Matplotlib, Seaborn, Machine Learning algorithms, and Web Scraping.
-- 📫 **How to reach me**: [immandy108@gmail.com](mailto:immandy108@gmail.com)
+- 📫 **How to reach me**: [LinkedIn Profile](https://www.linkedin.com/in/mandycodex) | [immandy108@gmail.com](mailto:immandy108@gmail.com)
 
 ---
 
