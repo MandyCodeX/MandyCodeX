@@ -71,21 +71,6 @@ I am an **Aspiring Data Scientist** passionate about turning raw, messy datasets
 
 ---
 
-### 📂 Data Science & Analytics Projects
-
-| Project | Data Science Domain | Key Methodologies & Tech |
-| :--- | :--- | :--- |
-| [**🏐 VNL 2023 Player Performance Analysis**](https://github.com/MandyCodeX/vnl-2023-player-performance-analysis) | **Sports Analytics & Exploratory Data Analysis** | Multi-variable correlation matrices, positional performance clustering, age curve modeling, and statistical visualizations. (`Python`, `Pandas`, `Matplotlib`, `Seaborn`) |
-| [**📈 Stock Price Prediction with RNN & Keras**](https://github.com/MandyCodeX/Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Network) | **Deep Learning & Time Series Forecasting** | Sequential modeling using Recurrent Neural Networks (RNN) and LSTM layers to predict financial trends. (`Keras`, `TensorFlow`, `Deep Learning`) |
-| [**🏠 Advanced House Price Prediction**](https://github.com/MandyCodeX/Advanced-House-Price-Prediction) | **Supervised Machine Learning & Regression** | End-to-end regression modeling featuring missing-value imputation, outlier treatment, and feature engineering. (`Scikit-Learn`, `Regression`, `Feature Engineering`) |
-| [**🎬 IMDb Movie Data Analysis**](https://github.com/MandyCodeX/imdb-movie-data-analysis) | **Exploratory Data Analysis & Trend Discovery** | Statistical analysis of box-office gross, budget correlations, genre distributions, and rating trajectories. (`Python`, `Pandas`, `EDA`) |
-| [**🕸️ Python Jobs Scraper**](https://github.com/MandyCodeX/python-jobs-scraper) | **Data Extraction & Automated ETL** | Automated web scraping pipeline aggregating tech hiring demand and skill frequencies into structured tabular datasets. (`Python`, `BeautifulSoup`, `Requests`) |
-| [**📱 Instagram Profile Parser**](https://github.com/MandyCodeX/instagram-profile-parser) | **Text Mining & Information Extraction** | Natural text parsing and regex-based information structuring from unstructured social media data. (`Python`, `Regex`, `Data Mining`) |
-| [**🌐 Social Network Data Analyzer**](https://github.com/MandyCodeX/social-network-data-analyzer) | **Network Analytics & Behavioral Patterns** | Exploration of interaction dynamics, connectivity metrics, and user behavior distributions. (`Python`, `Pandas`, `Data Processing`) |
-| [**🧠 NeetCode Submissions & Java DSA**](https://github.com/MandyCodeX/neetcode-submissions) | **Algorithms & Computational Efficiency** | Optimization of algorithmic complexity, data structure implementations, and competitive problem-solving. (`Python`, `Java`, `Algorithms`, `DSA`) |
-
----
-
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
