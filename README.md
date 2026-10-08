@@ -15,19 +15,6 @@
 
 ---
 
-### 🎯 Professional Objective & About Me
-
-I am an **Aspiring Data Scientist** passionate about turning raw, messy datasets into structured intelligence, statistical models, and predictive solutions. My work focuses on the complete data science lifecycle—from **automated data collection & cleaning** to **exploratory data analysis (EDA)**, **feature engineering**, and **machine learning / deep learning model deployment**.
-
-- 🎯 **Primary Goal**: Establishing myself as a high-impact **Data Scientist**, utilizing statistical rigor and predictive modeling to solve complex analytical problems.
-- 🔬 **Data Science Focus**: Exploratory Data Analysis (EDA), Statistical Hypothesis Testing, Feature Engineering & Selection, Predictive Regression & Classification, Time-Series Forecasting (RNN/LSTM), and Model Optimization.
-- 🔭 **Current Projects**: Building multi-dimensional sports analytics frameworks and automated web scraping data pipelines.
-- 🧠 **Continuous Learning**: Sharpening algorithmic thinking and mathematical problem-solving on **NeetCode / LeetCode** while exploring modern neural network architectures.
-- 💬 **Ask Me About**: Data Science pipelines, Python, Pandas, Matplotlib, Seaborn, Machine Learning algorithms, and Web Scraping.
-- 📫 **How to reach me**: [LinkedIn Profile](https://www.linkedin.com/in/mandycodex) | [immandy108@gmail.com](mailto:immandy108@gmail.com)
-
----
-
 ### 🛠️ Data Science Tech Stack & Competencies
 
 <div align="center">
