@@ -15,44 +15,7 @@
 
 ---
 
-### 🛠️ Data Science Tech Stack & Competencies
 
-<div align="center">
-
-#### 🔬 Data Science & Statistical Analysis
-<p>
-  <img src="https://img.shields.io/badge/Data_Science-Specialist-0284C7?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-EDA-10B981?style=for-the-badge&logo=google-analytics&logoColor=white" alt="EDA" />
-  <img src="https://img.shields.io/badge/Statistical_Modeling-Hypothesis_Testing-6366F1?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-Data_Wrangling-F59E0B?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Feature Engineering" />
-</p>
-
-#### 📊 Data Manipulation & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-#### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" />
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-8B5CF6?style=for-the-badge&logo=meta&logoColor=white" alt="Time Series" />
-</p>
-
-#### 💻 Languages & Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
 
 </div>
 
